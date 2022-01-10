@@ -13,3 +13,8 @@ We are looking for experienced Fullstack Software Engineers for our greenfield p
 - [Job Offer](https://swissdevjobs.ch/de/jobs/Steiner-AG-Senior-Software-Engineer)
 
 If you want to have more information please get in touch with [Patrick](https://www.linkedin.com/in/patrickvaler/) (Lead Software Engineer) or [Philipp](https://www.linkedin.com/in/philipp-schmidt-a9580a121/) (Talent Aquisition Manager).
+
+## Links
+
+- [Steiner Website](https://www.steiner.ch)
+- [Steiner on LinkedIn](https://www.linkedin.com/company/steiner-ag/)
