@@ -8,7 +8,7 @@ Steiner is present with offices in the German- and French-speaking areas of Swit
 
 ## Interested in working with us?
 
-We are looking for experienced Fullstack Software Engineers for our greenfield projects:
+We are looking for experienced Fullstack Software Engineers for our greenfield projects with the latest and greatest technologies:
 
 - [Job Offer](https://swissdevjobs.ch/de/jobs/Steiner-AG-Senior-Software-Engineer)
 
