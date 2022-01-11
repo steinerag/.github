@@ -2,7 +2,7 @@
 
 Steiner AG is one of the leading Real Estate Developer, Total Contractor and General Contractor in Switzerland.
 
-As developer, total or general contractor, Steiner supports the life cycle of real estate: from development to completion and all the way to refurbishment and renovation.
+As developer, total or general contractor, Steiner provides services along the life cycle of real estate: from development to completion and operation and then all the way to refurbishment and renovation. The next step is to offer digital solutions all around this life cycle.
 
 Steiner is present with offices in the German- and French-speaking areas of Switzerland. Its headquarters are in Zurich. In addition, the company is present in India and France with its own subsidiaries.
 
