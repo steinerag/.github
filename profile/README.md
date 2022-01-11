@@ -1,4 +1,4 @@
-# 👋 Welcome at the Steiner GitHub Organization
+# 👋 Welcome to the Steiner GitHub Organization
 
 Steiner AG is one of the leading Real Estate Developer, Total Contractor and General Contractor in Switzerland.
 
