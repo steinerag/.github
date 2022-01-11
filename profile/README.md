@@ -1,4 +1,4 @@
-# Steiner AG
+# 👋 Welcome at the Steiner GitHub Organization
 
 Steiner AG is one of the leading Real Estate Developer, Total Contractor and General Contractor in Switzerland.
 
@@ -6,15 +6,15 @@ As developer, total or general contractor, Steiner supports the life cycle of re
 
 Steiner is present with offices in the German- and French-speaking areas of Switzerland. Its headquarters are in Zurich. In addition, the company is present in India and France with its own subsidiaries.
 
-## Interested in working with us?
+## 🧑‍💻 Interested in working with us?
 
 We are looking for experienced Fullstack Software Engineers for our greenfield projects with the latest and greatest technologies:
 
-- [Job Offer](https://swissdevjobs.ch/de/jobs/Steiner-AG-Senior-Software-Engineer)
+- [Senior Software Engineer](https://swissdevjobs.ch/de/jobs/Steiner-AG-Senior-Software-Engineer)
 
 If you want to have more information please get in touch with [Patrick](https://www.linkedin.com/in/patrickvaler/) (Lead Software Engineer) or [Philipp](https://www.linkedin.com/in/philipp-schmidt-a9580a121/) (Talent Aquisition Manager).
 
-## Links
+## 🔗 Links
 
 - [Steiner Website](https://www.steiner.ch)
 - [Steiner on LinkedIn](https://www.linkedin.com/company/steiner-ag/)
