@@ -8,7 +8,7 @@ Steiner is continuously exploring how emerging technologies may shape the future
 
 We are present with offices in the German- and French-speaking areas of Switzerland. Its headquarters are in Zurich. In addition, the company is present in India and France with its own subsidiaries.
 
-## 🧑‍💻 Interested in working with us?
+## 👩‍💻 Interested in working with us?
 We are looking for experienced Fullstack Software Engineers for our greenfield projects with the latest and greatest technologies:
 
 - [Senior Software Engineer](https://swissdevjobs.ch/de/jobs/Steiner-AG-Senior-Software-Engineer)
