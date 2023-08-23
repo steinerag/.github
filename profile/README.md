@@ -15,7 +15,7 @@ We are looking for experienced Fullstack Software Engineers and Cloud/DevOps Eng
 - [Senior Software Engineer](https://www.steiner.ch/index.php?id=604&sid=265&L=0)
 - [Senior Cloud/DevOps Engineer](https://www.steiner.ch/index.php?id=604&sid=268&L=0)
 
-If you want to have more information please get in touch with [Patrick](https://www.linkedin.com/in/patrickvaler/) (Head of Software Engineering) or [Philipp](https://www.linkedin.com/in/philipp-schmidt-a9580a121/) (Talent Aquisition Manager).
+If you want to have more information please get in touch with [Patrick](https://www.linkedin.com/in/patrickvaler/) (Head of Software Engineering).
 
 ## 🔗 Links
 
